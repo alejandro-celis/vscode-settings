@@ -1,7 +1,17 @@
 {
+    "python.pythonPath": "/opt/anaconda3/envs/lanxess-env/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
         "--enable=W0611"
-    ]
+    ],
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/__pycache__": true,
+        "**/**/*.pyc": true,
+        ".pytest_cache": true
+    }
 }
