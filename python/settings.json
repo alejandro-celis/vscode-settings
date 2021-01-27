@@ -1,7 +1,7 @@
-
 {
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 0.7,
   "editor.fontSize": 14,
+  "editor.minimap.enabled": false,
     "python.pythonPath": "/opt/anaconda3/envs/lanxess-env/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
