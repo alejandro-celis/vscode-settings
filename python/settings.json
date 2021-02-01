@@ -1,4 +1,5 @@
-{
+{ 
+  "workbench.colorTheme": "High Contrast",
   "window.zoomLevel": 0.7,
   "editor.fontSize": 14,
   "editor.minimap.enabled": false,
