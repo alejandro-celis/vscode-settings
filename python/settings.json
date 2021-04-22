@@ -1,18 +1,19 @@
 { 
-  "workbench.colorTheme": "Default Dark+",
-  "window.zoomLevel": 0.7,
-  "editor.fontSize": 14.5,
-  "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 0.7,
+    "editor.fontSize": 14.5,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4  
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "100"],
     "python.pythonPath": "/opt/anaconda3/envs/lanxess-env/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
         "--enable=W0611"
     ],
-    "[python]": {
-        "editor.insertSpaces": true,
-        "editor.tabSize": 4  
-      },
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.authors.enabled": false,
     "gitlens.codeLens.recentChange.enabled": false,
