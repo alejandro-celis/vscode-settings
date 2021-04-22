@@ -8,7 +8,6 @@
     "editor.tabSize": 4, 
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": ["--line-length", "100"],
-    "python.pythonPath": "/opt/anaconda3/envs/lanxess-env/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
