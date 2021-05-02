@@ -21,5 +21,6 @@
         "**/.git": true,
         "**/__pycache__": true,
         ".pytest_cache": true
-    }
+    },
+    "terminal.integrated.shell.linux": "/bin/zsh"
 }
