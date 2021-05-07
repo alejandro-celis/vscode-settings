@@ -21,6 +21,6 @@
         "**/.git": true,
         "**/__pycache__": true,
         ".pytest_cache": true,
-        ".ipynb_checkpoints"
+        ".ipynb_checkpoints": true
     }
 }
