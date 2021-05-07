@@ -22,6 +22,5 @@
         "**/__pycache__": true,
         ".pytest_cache": true,
         ".ipynb_checkpoints"
-    },
-    "terminal.integrated.shell.linux": "/bin/zsh"
+    }
 }
