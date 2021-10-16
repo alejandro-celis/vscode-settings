@@ -1,7 +1,7 @@
 { 
     "workbench.colorTheme": "Default Dark+",
     "window.zoomLevel": 0.7,
-    "editor.fontSize": 14.5,
+    "editor.fontSize": 13,
     "editor.minimap.enabled": false,
     "editor.formatOnSave": false,
     "autoDocstring.docstringFormat": "google",
@@ -20,5 +20,8 @@
         "**/__pycache__": true,
         ".pytest_cache": true,
         ".ipynb_checkpoints": true
+    },
+    "files.watcherExclude": {
+        "**/target": true
     }
 }
