@@ -4,6 +4,7 @@
     "editor.fontSize": 14,
     "editor.minimap.enabled": false,
     "editor.formatOnSave": false,
+    "indentOneSpace.workOnSingleLine": true,
     "autoDocstring.docstringFormat": "google",
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": ["--line-length", "100"],
